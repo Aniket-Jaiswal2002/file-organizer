@@ -49,7 +49,7 @@ Done! Moved 4 file(s).
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/file-organizer.git
+git clone https://github.com/Aniket-Jaiswal2002/file-organizer.git
 cd file-organizer
 
 # Install dependencies
